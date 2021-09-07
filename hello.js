@@ -43,4 +43,6 @@
 
 ////// // lesson28 Node in the Ecosystem II What is Node best at?
 
-////// // lesson29 Node in the Ecosystem III The Observer Pattern
+////// // lesson29 The Observer Pattern I
+
+////// // lesson30 The Observer Pattern II
