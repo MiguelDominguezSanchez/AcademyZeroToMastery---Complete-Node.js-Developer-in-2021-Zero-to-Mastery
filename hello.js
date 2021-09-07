@@ -27,6 +27,12 @@
 
 ////// // lesson24 The Event Loop
 
+// while (!shouldExit) {
+// 	processEvents()
+// }
+
+////// // lesson25 Callback Queues
+
 while (!shouldExit) {
 	processEvents()
 }
