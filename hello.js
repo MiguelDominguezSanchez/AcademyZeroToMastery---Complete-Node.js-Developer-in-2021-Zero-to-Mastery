@@ -25,14 +25,16 @@
 // 	console.log(`Js ${mission} really more fun?`)
 // }
 
-////// // lesson24 The Event Loop
+////// // lesson24 The Event Loop I
 
 // while (!shouldExit) {
 // 	processEvents()
 // }
 
-////// // lesson25 Callback Queues
+////// // lesson25 The Event Loop II Callback Queues
 
-while (!shouldExit) {
-	processEvents()
-}
+// while (!shouldExit) {
+// 	processEvents()
+// }
+
+////// // lesson26 The Event Loop III Callback Queues
