@@ -39,6 +39,8 @@
 
 ////// // lesson26 The Event Loop III Callback Queues
 
-////// // lesson27 Node in the Ecosystem
+////// // lesson27 Node in the Ecosystem I
 
-////// // lesson28 What is Node best at?
+////// // lesson28 Node in the Ecosystem II What is Node best at?
+
+////// // lesson29 Node in the Ecosystem III The Observer Pattern
