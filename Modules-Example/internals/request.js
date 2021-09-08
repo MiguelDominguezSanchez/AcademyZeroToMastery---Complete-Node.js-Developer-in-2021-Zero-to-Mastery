@@ -14,4 +14,4 @@ module.exports = {
 	send,
 }
 
-console.log('Hello from request.js!')
+// console.log('Hello from request.js!')
