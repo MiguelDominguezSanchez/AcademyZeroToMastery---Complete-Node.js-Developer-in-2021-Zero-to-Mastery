@@ -47,6 +47,8 @@
 
 ////// // lesson30 The Observer Pattern II– Events
 
-////// // lesson31 Node Modules
+////// // lesson31 Node Modules I
 
-////// // lesson32 Node Modules
+////// // lesson32 Node Modules II
+
+////// // lesson33 Node Modules III
