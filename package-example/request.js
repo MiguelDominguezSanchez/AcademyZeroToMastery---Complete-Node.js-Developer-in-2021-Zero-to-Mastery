@@ -1,7 +1,7 @@
 const axios = require('axios')
 
 axios
-	.get('https://wwwwww.google.com')
+	.get('https://www.wikipedia.com')
 	.then((response) => {
 		console.log(response)
 	})
