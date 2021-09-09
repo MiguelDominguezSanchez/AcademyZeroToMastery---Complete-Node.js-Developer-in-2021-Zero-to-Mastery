@@ -1,13 +1,14 @@
 {
-  "name": "modules-example",
-  "version": 1.0.0",
+  "name": "package-example",
+  "version": "1.0.0",
   "description": "",
-  "main": "https.js",
+  "main": "index.js",
   "scripts": {
-    "start":"node https.js",
+    "start": "Node  request.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "MiguelDominguez();",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.4"
