@@ -19,6 +19,14 @@ app.get('/friends', (req, res) => {
 	res.json(friends)
 })
 
+app.use((req, res, next) => {
+	const start = Date.now()
+	next()
+	//actions go here...
+	const delta = Date.now() - start
+	console.log(`${req.method} ${req.url} ${delta}ms`)
+})
+
 // GET /friends/22
 app.get('/friends/:friendId', (req, res) => {
 	const friendId = Number(req.params.friendId)
